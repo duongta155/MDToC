@@ -4,7 +4,7 @@ Tung Duong Ta, Tim Oates, Thien Van Luong, Huan Vu, Tien Cuong Nguyen
 
 Published in the **Journal on Information Technologies & Communications (ICT Research)**, Vol. 28, No. 2, pp. 59–68, September 2026.
 
-[Paper (journal)](https://ictmag.ictvietnam.vn/ict/issue/view/109/33) | [arXiv: 2512.18841](https://arxiv.org/abs/2512.18841)
+[Paper (journal)](https://ictmag.ictvietnam.vn/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=https%3A%2F%2Fictmag.ictvietnam.vn%2Fict%2Fissue%2Fdownload%2F109%2F33#page=61) | [arXiv: 2512.18841](https://arxiv.org/abs/2512.18841)
 
 ## Overview
 
