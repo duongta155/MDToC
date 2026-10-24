@@ -2,9 +2,9 @@
 
 Tung Duong Ta, Tim Oates, Thien Van Luong, Huan Vu, Tien Cuong Nguyen
 
-Published in the **Journal on Information Technologies & Communications (ICT Research)**, Vol. 2026, No. 2, 2026.
+Published in the **Journal on Information Technologies & Communications (ICT Research)**, Vol. 28, No. 2, pp. 59–68, September 2026.
 
-[Paper (journal)](https://ictmag.ictvietnam.vn/ict/article/view/1464) | [PDF](https://ictmag.ictvietnam.vn/ict/article/download/1464/653) | [DOI: 10.31276/ICT.2026.0056](https://doi.org/10.31276/ICT.2026.0056) | [arXiv: 2512.18841](https://arxiv.org/abs/2512.18841)
+[Paper (journal)](https://ictmag.ictvietnam.vn/ict/issue/view/109) | [PDF (full issue, pp. 59–68)](https://ictmag.ictvietnam.vn/ict/issue/view/109/33) | [DOI: 10.31276/ICT.2026.0056](https://doi.org/10.31276/ICT.2026.0056) | [arXiv: 2512.18841](https://arxiv.org/abs/2512.18841)
 
 ## Overview
 
@@ -40,9 +40,11 @@ Despite advances in mathematical reasoning capabilities, Large Language Models (
   title   = {MDToC: Metacognitive Dynamic Tree of Concepts for Boosting Mathematical Problem-Solving of Large Language Models},
   author  = {Ta, Tung Duong and Oates, Tim and Luong, Thien Van and Vu, Huan and Nguyen, Tien Cuong},
   journal = {Journal on Information Technologies \& Communications (ICT Research)},
-  volume  = {2026},
+  volume  = {28},
   number  = {2},
+  pages   = {59--68},
   year    = {2026},
+  month   = sep,
   doi     = {10.31276/ICT.2026.0056}
 }
 ```
